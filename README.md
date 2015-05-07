@@ -1,11 +1,11 @@
-------
+
 
 ##App Store :[LocalPass][1]
 ##Google Play:[LocalPass][2]
 
-
   [1]: https://play.google.com/store/apps/details?id=hk.ncloud.passbox
   [2]: https://itunes.apple.com/us/app/localpass/id967116516
+------
 Internet has brought great convenience to our work and life，but at the same time we will not know how to do from the reported network security bugs and safety problems, We all know that all accounts are set to the same password is very danger, but only use our memory to remember the passwords to different accounts is very difficult and make us to confused about them.
 
 What? use notepad to record the passwords? let the professional tool work for you. LocalPass is one of the professional app to manage your password, simple and clear, easy to use. The most important is absolutely safe.
