@@ -1,7 +1,7 @@
 
 
-App Store :[LocalPass][2]
-Google Play:[LocalPass][1]
+**App Store** :[LocalPass][2]
+**Google Play**:[LocalPass][1]
 
 [1]: https://play.google.com/store/apps/details?id=hk.ncloud.passbox
 [2]: https://itunes.apple.com/us/app/localpass/id967116516
